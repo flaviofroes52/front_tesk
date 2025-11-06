@@ -89,7 +89,7 @@ const ui = {
     
 
     const iconDelete = document.createElement("img");
-    iconDelete.src = "./public/assets/icons/delete.png";
+    iconDelete.src = "./src/assets/icons/delete.png";
     iconDelete.alt = "Botão Delete";
     button2.appendChild(iconDelete);
 

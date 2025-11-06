@@ -78,7 +78,7 @@ const ui = {
  
 
     const iconEdit = document.createElement("img");
-    iconEdit.src = "./public/assets/icons/editar.png";
+    iconEdit.src = "/assets/icons/editar.png";
     iconEdit.alt = "Botão Editar";
     button1.appendChild(iconEdit);
 //
@@ -89,7 +89,7 @@ const ui = {
     
 
     const iconDelete = document.createElement("img");
-    iconDelete.src = "./public/assets/icons/delete.png";
+    iconDelete.src = "./src/assets/icons/delete.png";
     iconDelete.alt = "Botão Delete";
     button2.appendChild(iconDelete);
 
